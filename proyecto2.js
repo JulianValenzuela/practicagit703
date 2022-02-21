@@ -1,2 +1,2 @@
 console.log("Proyecto 2")
-gi
+alert("hola mundo");
